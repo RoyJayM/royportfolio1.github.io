@@ -4,7 +4,7 @@ This is a personal portfolio website project for Roy Mutsikwi showcasing fronten
 <a href="https://royjaym.github.io/royportfolio1.github.io/" rel="nofollow">Click here to view page</a><br>
 <h1>Projects Pages</h1>
 <a href="https://github.com/RoyJayM/Pac-Man" rel="nofollow">Pacman Exercise</a><br>
-<a href="https://github.com/RoyJayM/Bus-Tracking" rel="nofollow">Real Time Bus Tracking</a><br>
+<a href="https://github.com/RoyJayM/Bus-Tracker" rel="nofollow">Real Time Bus Tracking</a><br>
 <a href="https://github.com/RoyJayM/Eye-Exercise/" rel="nofollow">Eye Exercise</a><br>
 <h4>Contirbutions</h4>
 <p>None</p>
