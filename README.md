@@ -10,4 +10,4 @@ This is a personal portfolio website project for Roy Mutsikwi showcasing fronten
 <p>None</p>
 <h1>Future Updates</H4>
 - To showcase more web development projects.<BR>
-- More use of bootsrap and other frameworks such as laravel for easy backend leverage. 
+- More use of bootsrap and other frameworks Node.js, Express, React, Redux & MongoDB. 
