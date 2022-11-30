@@ -1,6 +1,5 @@
 # royportfolio1.github.io
 This is a personal portfolio website project for Roy Mutsikwi showcasing frontend web development skills and projects learnt in the MITxPRO Professional Certificate in Coding
-<h1>High Usage</h1>
 <h1>Usage</h1>
 <a href="https://royjaym.github.io/royportfolio1.github.io/" rel="nofollow">Click here to view page</a><br>
 <h1>Projects Pages</h1>
